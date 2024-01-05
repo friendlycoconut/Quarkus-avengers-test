@@ -1,0 +1,1 @@
+INSERT INTO avenger (id, name, civilName, snapped) VALUES (1, 'IRON MAN', 'Tony Stark', false)

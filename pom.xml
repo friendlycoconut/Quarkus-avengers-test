@@ -74,6 +74,14 @@
       <artifactId>rest-assured</artifactId>
       <scope>test</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/io.quarkus/quarkus-jdbc-h2 -->
+<dependency>
+    <groupId>io.quarkus</groupId>
+    <artifactId>quarkus-jdbc-h2</artifactId>
+    <version>3.6.5</version>
+</dependency>
+
+
   </dependencies>
   <build>
     <plugins>
